@@ -4,7 +4,7 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img  width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renannrocha&theme=dark" alt="" /></a>
 </div>
 </div>
-
+<!--
 <div align="left">
  <div style="display: inline_block">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -13,3 +13,4 @@
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  </div>
 </div>
+-->
