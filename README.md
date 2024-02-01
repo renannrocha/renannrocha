@@ -5,12 +5,10 @@
  </div>
 </div>
 
-<!--
+
 ```json
-"user" : {
-  "name" : "Marcio Renan"
-  "age" : "21"
-  "contry" : "Brasil"
+{
+  "status" : "Atualmente estudando a bibliotec Spring e JPA-Hibernate"
 }
 ```
 
