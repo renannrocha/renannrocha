@@ -8,7 +8,7 @@
 
 ```json
 {
-  "status" : "Atualmente estudando a bibliotec Spring e JPA-Hibernate"
+  "status" : "Atualmente estudando a biblioteca Spring e JPA-Hibernate"
 }
 ```
 
