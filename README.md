@@ -1,6 +1,6 @@
 ```json
 {
-  "status" : "Atualmente estudando a biblioteca Spring e JPA-Hibernate"
+  "status" : "Atualmente estudando a biblioteca Spring com JPA e REST API"
 }
 ```
 <!--
