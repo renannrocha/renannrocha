@@ -1,4 +1,14 @@
 <details>	
+  <summary><b>About me 👨🏻</b></summary>
+  
+> Olá 👋🏻
+>
+> Meu nome é Marcio Renan, sou um estudante de tecnologia cursando meu 4° semestre em Análise e desenvolvimento de Sistemas pela Universidade [Estácio](https://estacio.br/).
+>
+> Apaixonado por tecnologia e inovação, estou trilhando um caminho de aprendizado e desenvolvimento pessoal com foco em me tornar um bom profissional na area de tecnologia e desenvolvimento de software.    
+</details>
+
+<details>	
   <summary><b> github profile stats 📈📊</b></summary>
    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renannrocha&theme=dark" alt="" /></a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renannrocha&theme=dark" alt="" /></a>
