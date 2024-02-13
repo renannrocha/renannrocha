@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/renannrocha"><img width="200px" height="100px" src="./docs/name.png" alt="Renan Rocha" /></a>
+  <a href="https://github.com/renannrocha"><img width="20%" height="40px" src="./docs/name.png" alt="Renan Rocha" /></a>
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e66adff&center=true&vCenter=true&width=435&lines=Back-End+Developer;Technology+Student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
