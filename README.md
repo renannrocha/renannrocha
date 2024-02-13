@@ -1,10 +1,10 @@
 <!--
-<p align="center">
+<p align="left">
   <a href="https://github.com/renannrocha"><img width="30%" height="45px" src="./docs/name.png" alt="Renan Rocha" /></a><br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e66adff&center=true&vCenter=true&width=435&lines=Back-End+Developer;Technology+Student;Always+learning+new+things" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e66adff&center=false&vCenter=false&width=435&lines=Hello+👋🏻;Technology+Student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 -->
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e9e9eff&center=false&vCenter=false&width=435&lines=Welcome+👋🏻;I'm+a+Back-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 <details>	
   <summary><b>about me 👨🏻‍💻</b></summary>
   
