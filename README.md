@@ -3,7 +3,7 @@
   
 > Olá 👋🏻
 >
-> Meu nome é Marcio Renan, sou um estudante de tecnologia cursando meu 4° semestre em Análise e desenvolvimento de Sistemas pela Universidade [Estácio](https://estacio.br/).
+> Meu nome é Marcio Renan, sou programador e estudante de tecnologia cursando meu 4° semestre em Análise e desenvolvimento de Sistemas pela Universidade [Estácio](https://estacio.br/).
 >
 > Apaixonado por tecnologia e inovação, estou trilhando um caminho de aprendizado e desenvolvimento pessoal com foco em me tornar um bom profissional na area de tecnologia e desenvolvimento de software. Atualmente estou em busca de uma oportunidade onde eu possa desenvolver minha experiência dentro do mercado e poder atuar com times de desenvolvimento.
 >
