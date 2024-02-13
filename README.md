@@ -1,12 +1,12 @@
-<!--
+
 <p align="center">
   <a href="https://github.com/renannrocha">
-    <img src="https://user-images.githubusercontent.com/64660577/227737008-8c75f74e-c660-4509-922a-9048409bcfa8.png" alt="Renan Rocha" /></a>
+    <img src="./docs/name.png" alt="Renan Rocha" /></a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B41EFF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+and+Mobile+Developer;Technology+Student;Always+learning+new+things" alt="Typing SVG" /></a>
--->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B41EFF&center=true&vCenter=true&width=435&lines=Back-End+Developer;Technology+Student;Always+learning+new+things" alt="Typing SVG" /></a>
+
 
 <details>	
   <summary><b>About me 👨🏻</b></summary>
