@@ -23,7 +23,7 @@
 
 <details>	
   <summary><b>technologies in my daily life 👩🏻‍💻</b></summary>
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_block" align="left">
     <img align="center" alt="java" height="100px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Spring" height="100px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" alt="mysql" height="100px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -35,12 +35,6 @@
     <img align="center" alt="postman" height="100px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     <img align="center" alt="inteliJ" height="100px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   </div>
-
-```json
-{
-  "status" : "Atualmente estudando a biblioteca Spring com JPA e REST API"
-}
-```
 <br/>
 </details>
 
