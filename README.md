@@ -5,7 +5,9 @@
 >
 > Meu nome é Marcio Renan, sou um estudante de tecnologia cursando meu 4° semestre em Análise e desenvolvimento de Sistemas pela Universidade [Estácio](https://estacio.br/).
 >
-> Apaixonado por tecnologia e inovação, estou trilhando um caminho de aprendizado e desenvolvimento pessoal com foco em me tornar um bom profissional na area de tecnologia e desenvolvimento de software.
+> Apaixonado por tecnologia e inovação, estou trilhando um caminho de aprendizado e desenvolvimento pessoal com foco em me tornar um bom profissional na area de tecnologia e desenvolvimento de software. Atualmente estou em busca de uma oportunidade onde eu possa desenvolver minha experiência dentro do mercado e poder atuar com times de desenvolvimento.
+>
+> Meus objetivos incluem contribuir para projetos open-source e auxiliar em projetos de outros desenvolvedores, acreditando que a colaboração é a chave para o avanço tecnológico. Entendo a importância de uma forte rede de conexões no desenvolvimento de software e, por isso, estou sempre buscando ampliar meu network. Se você tem um projeto ou ideia e acha que eu posso contribuir, não hesite em me enviar uma mensagem por [e-mail](https://mailto:renanrocha8897@gmail.com) ou [LinkedIn](www.linkedin.com/in/renannrocha).
 <br>    
 </details>
 
