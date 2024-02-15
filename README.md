@@ -22,8 +22,8 @@
   <summary><b> github profile stats 📊</b></summary>
    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renannrocha&theme=dark" alt="" /></a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renannrocha&theme=dark" alt="" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renannrocha&theme=dark&utcOffset=8" alt="" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renannrocha&theme=dark" alt="" /></a>
+  <!--<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renannrocha&theme=dark&utcOffset=8" alt="" /></a>
+>   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renannrocha&theme=dark" alt="" /></a>-->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renannrocha&theme=dark" alt="" /></a>
 <br/>
 </details>
