@@ -8,13 +8,13 @@
 <details>	
   <summary><b>about me 👨🏻‍💻</b></summary>
   
-> Olá 👋🏻
+> Hi👋🏻
 >
-> Meu nome é Marcio Renan, sou programador e estudante de tecnologia cursando meu 4° semestre em Análise e desenvolvimento de Sistemas pela Universidade [Estácio](https://estacio.br/).
+> My name is Marcio Renan, I'm a programmer and technology student attending my 4th semester in Systems Analysis and Development at [Estácio](https://estacio.br/) University.
 >
-> Apaixonado por tecnologia e inovação, estou trilhando um caminho de aprendizado e desenvolvimento pessoal com foco em me tornar um bom profissional na area de tecnologia e desenvolvimento de software. Atualmente estou em busca de uma oportunidade onde eu possa desenvolver minha experiência dentro do mercado e poder atuar com times de desenvolvimento.
+> Passionate about technology and innovation, I am following a path of learning and personal development with a focus on becoming a good professional in the field of technology and software development. Currently I am looking for an opportunity where I can develop my experience within the market and be able to work with development teams.
 >
-> Meus objetivos incluem contribuir para projetos open-source e auxiliar em projetos de outros desenvolvedores, acreditando que a colaboração é a chave para o avanço tecnológico. Entendo a importância de uma forte rede de conexões no desenvolvimento de software e, por isso, estou sempre buscando ampliar meu network. Se você tem um projeto ou ideia e acha que eu posso contribuir, não hesite em me enviar uma mensagem por [e-mail](https://mailto:renanrocha8897@gmail.com) ou [LinkedIn](www.linkedin.com/in/renannrocha).
+>  My goals include contributing to open-source projects and assisting with other developers' projects, believing that collaboration is the key to technological advancement. I understand the importance of a strong network of connections in software development and, therefore, I am always looking to expand my network. If you have a project or idea and think I can contribute, don't hesitate to send me a message by [e-mail](https://mailto:renanrocha8897@gmail.com) or [LinkedIn](www.linkedin.com/in/renannrocha).
 <br>    
 </details>
 
