@@ -28,7 +28,7 @@
 <br/>
 </details>
 
-<details>	
+<!--<details>	
   <summary><b>technologies in my daily life 👩🏻‍💻</b></summary>
   <div style="display: inline_block" align="left">
     <img align="center" alt="java" height="100px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
