@@ -1,12 +1,47 @@
+```Java
+import com.renannrocha.domain.entities.DevInfo;
+import com.renannrocha.domain.entities.DevSkills;
+import org.github.users.User;
+import org.springframework.stereotype.Component;
+
+@Component
+public class DisplayProfile implements User {
+    DevInfo devInfo = new DevInfo();
+    DevSkills devSkills = new DevSkills();
+
+    @Override
+    public DevInfo userDescription() {
+        devInfo.setName("Marcio Renan");
+        devInfo.setField("Back-End Developer");
+        devInfo.setCompany("Maldec Labs");
+        devInfo.setLocation("Brazil");
+        return devInfo;
+    }
+
+    @Override
+    public DevSkills userSkills() {
+        devSkills.setLanguages(new String[] {"Java", "C#", ".NET", "JavaScript"});
+        devSkills.setVersionControlTools(new String[] {"Git", "GitHub", "GitLab"});
+        devSkills.setLibraries(new String[] {"Spring Boot", "JPA/Hibernate", "Spring Security", "EntityFramework", "JavaFx"});
+        devSkills.setUnitTestingTools(new String[] {"JUnit", "Mockito", "Selenium WebDriver"});
+        devSkills.setBuildTools(new String[] {"Maven"});
+        devSkills.setDatabases(new String[] {"SQL", "NoSQL", "PostgreSQL", "MongoDB", "SQL Server"});
+        return devSkills;
+    }
+}
+```
+
 <!--
 <p align="left">
   <a href="https://github.com/renannrocha"><img width="30%" height="45px" src="./docs/name.png" alt="Renan Rocha" /></a><br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e66adff&center=false&vCenter=false&width=435&lines=Hello+👋🏻;Technology+Student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 -->
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e9e9eff&center=true&vCenter=true&width=435&lines=Welcome👋🏻;I'm+a+Back-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
-<!--
+-->
+  <!--
 <details>	
   <summary align="center"><b>about me 👨🏻‍💻</b></summary>
 > Hi👋🏻
