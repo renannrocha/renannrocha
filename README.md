@@ -11,6 +11,7 @@
 <br/>
 </details>
 -->
+---
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renannrocha&theme=dark" alt="" /></a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renannrocha&theme=dark" alt="" /></a>
@@ -18,8 +19,6 @@
 ---
 
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renannrocha&theme=dark" alt="" /></a> -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph-dark.svg">
