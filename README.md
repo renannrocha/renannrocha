@@ -29,3 +29,9 @@
 <!--
 <a href="#"><img width="20px"  src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></a>
 -->
+
+<div align="center"> 
+  
+  ![Snake animation](https://github.com/renannrocha/renannrocha/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
