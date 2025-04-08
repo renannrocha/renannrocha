@@ -16,6 +16,12 @@
 
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renannrocha&theme=dark" alt="" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--
 <a href="#"><img width="20px"  src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></a>
 -->
