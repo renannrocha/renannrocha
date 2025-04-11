@@ -12,6 +12,7 @@
 </details>
 -->
 ---
+<a href="https://git.io/streak-stats"> <img align=center  width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=renannrocha&hide_border=true&theme=dark&background=151515&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt=""/></a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renannrocha&theme=dark" alt="" /></a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renannrocha&theme=dark" alt="" /></a>
