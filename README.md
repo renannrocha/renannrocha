@@ -1,5 +1,5 @@
 <!--
-<a href="#"><img width="20px"  src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></a>
+<a href="#"><img width="20px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></a>
 -->
 
 <!--
@@ -12,6 +12,26 @@
   <summary align="center"><b>summry title</b></summary>
 <br/>
 </details>
+-->
+<!--
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
+
+<br> <br> <br>
+
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+   TOPIC: **message**
+</p>
+
+<p align="left">
+  TOPIC: **message**
+</p>
+
+<br> <br> <br> 
 -->
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renannrocha&theme=dark" alt="" /></a>
