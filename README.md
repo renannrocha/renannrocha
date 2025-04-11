@@ -14,7 +14,7 @@
 </details>
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="450px" max-width="450px" width="450px" align="right"> 
 
 <p align="left"> 
   👋 Hi! My name is Renan — I'm a back-end developer and also work as a software quality analyst.
