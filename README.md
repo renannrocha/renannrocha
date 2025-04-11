@@ -20,10 +20,10 @@
 
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renannrocha&theme=dark" alt="" /></a> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/renannrocha/renannrocha/output/pacman-contribution-graph.svg">
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renannrocha/renannrocha/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renannrocha/renannrocha/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--
