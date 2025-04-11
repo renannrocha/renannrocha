@@ -14,7 +14,7 @@
 </details>
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="370px" max-width="370px" width="370px" align="right"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="370px" max-width="370px" width="370px" align="right"> <br>
 
 <p align="left"> 
   👋 Hi! My name is Renan — I'm a back-end developer and also work as a software quality analyst.
@@ -29,6 +29,7 @@
    🚀 I was part of the creation of MalDec Labs, a startup focused on providing tools for professionals working with malware analysis, reverse engineering, and other cybersecurity-related topics. I was responsible for the entire back-end development of the company, from architecture design to implementation.
 </p>
 -->
+
 <p align="left">
   🧪 As a quality analyst, I pay close attention to testing, feature validation, and ensuring that the delivered software meets high quality standards.
 </p>
@@ -36,8 +37,6 @@
 <p align="left"> 
   📫 Feel free to explore my repositories and reach out!
 </p>
-
-<br>
 
 --- 
 
