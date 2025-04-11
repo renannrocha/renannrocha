@@ -13,26 +13,30 @@
 <br/>
 </details>
 -->
-<!--
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
-<br> <br> <br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right"> 
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  👋 Hi! My name is Renan — I'm a back-end developer and also work as a software quality analyst.
+</p>
+
+<p align="left"> 
+  💻 I mainly work with Java and Spring Boot, building robust and scalable APIs. I'm passionate about software architecture, clean code practices, security, and system integration.
 </p>
 
 <p align="left">
-   TOPIC: **message**
+   🚀 I was part of the creation of MalDec Labs, a startup focused on providing tools for professionals working with malware analysis, reverse engineering, and other cybersecurity-related topics. I was responsible for the entire back-end development of the company, from architecture design to implementation.
 </p>
 
 <p align="left">
-  TOPIC: **message**
+  🧪 As a quality analyst, I pay close attention to testing, feature validation, and ensuring that the delivered software meets high quality standards.
 </p>
 
-<br> <br> <br> 
--->
+<p align="left"> 
+  📫 Feel free to explore my repositories and reach out!
+</p>
+
+--- 
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renannrocha&theme=dark" alt="" /></a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renannrocha&theme=dark" alt="" /></a>
