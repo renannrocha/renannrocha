@@ -1,5 +1,3 @@
-<p align="center" width="20%">
-
 <p align="center">
   <a href="#">
     <img 
