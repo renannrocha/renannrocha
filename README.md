@@ -2,10 +2,19 @@
 
 <p align="center">
   <a href="#">
-    <img width="40px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" />
+    <img 
+      width="40px" 
+      align="middle"
+      src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"
+      alt="Octocat"
+    />
   </a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e9e9eff&center=true&vCenter=true&width=435&lines=Welcome👋🏻;I'm+a+Back-End+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img 
+      align="middle"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e9e9eff&center=false&vCenter=true&width=350&lines=Welcome👋🏻;I'm+a+Back-End+Developer;Always+learning+new+things"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
