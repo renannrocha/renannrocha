@@ -1,32 +1,19 @@
-<p align="center">
-  <a href="#">
-    <img 
-      width="40px" 
-      align="middle"
-      src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"
-      alt="Octocat"
-    />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img 
-      align="middle"
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e9e9eff&center=false&vCenter=true&width=350&lines=Welcome👋🏻;I'm+a+Back-End+Developer;Always+learning+new+things"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<!--
+<a href="#"><img width="20px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></a>
+-->
 
-
+<p align="center" width="20%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e9e9eff&center=true&vCenter=true&width=435&lines=Bem-vindo👋🏻;Sou+um+Desenvolvedor+Full-Stack;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right"> <br>
 
-<p align="left"> 👋 Hi! I'm Renan, a Back-End Developer and Software Quality Analyst passionate about building reliable, scalable, and high-quality software. </p>
+<p align="left"> 👋 Olá! Meu nome é Renan, sou Desenvolvedor Full-Stack e Analista de Qualidade de Software, apaixonado por construir softwares confiáveis, escaláveis e de alta qualidade. </p>
 
-<p align="left"> 💻 I focus on solving problems through technology, choosing the right tools and approaches according to each project's needs. </p>
+<p align="left"> 💻 Meu foco é resolver problemas por meio da tecnologia, escolhendo as ferramentas e abordagens mais adequadas para as necessidades de cada projeto.. </p>
 
-<p align="left"> 🧪 My experience in software quality gives me a strong quality-focused perspective throughout the development process. </p>
+<p align="left"> 🧪 Minha experiência em qualidade de software me proporciona uma forte perspectiva voltada à qualidade durante todo o processo de desenvolvimento. </p>
 
-<p align="left"> 🚀 Always learning, building, and exploring new technologies. </p>
+<p align="left"> 🚀 Sempre aprendendo, construindo e explorando novas tecnologias. </p>
 
 
 <!--
